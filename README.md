@@ -1,5 +1,7 @@
 # Davinci Resolve Render Notifications
 
+_This project is currently in progress and missing files after a computer transfer. I will be working on it again soon._
+
 This is a simple script that will send a notification to your phone when a Davinci Resolve render is complete.
 
 ## Features
